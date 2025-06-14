@@ -19,7 +19,8 @@ A Python and Streamlit-based tool that extracts structured data from **Amazon in
 ## 📸 Screenshots
 
 
-  ![Image](https://github.com/user-attachments/assets/29d2bbf0-e4c7-48be-a8cd-b607232e3f19)  
+  ![Image](https://github.com/user-attachments/assets/ffd54b3a-6fd6-4b2f-bff7-b72fe91f6048)
+
 
 
 ---
