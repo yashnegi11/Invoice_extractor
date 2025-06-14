@@ -19,7 +19,7 @@ A Python and Streamlit-based tool that extracts structured data from **Amazon in
 ## 📸 Screenshots
 
 
-  [invoice extractor 2](https://github.com/user-attachments/assets/29d2bbf0-e4c7-48be-a8cd-b607232e3f19)  
+  (https://github.com/user-attachments/assets/29d2bbf0-e4c7-48be-a8cd-b607232e3f19)  
 
 
 ---
@@ -28,11 +28,11 @@ A Python and Streamlit-based tool that extracts structured data from **Amazon in
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/your-username/amazon-invoice-extractor.git
 cd amazon-invoice-extractor
 ```
-###2. Create and Activate Virtual Environment
+### 2. Create and Activate Virtual Environment
 ```
 Copy
 Edit
@@ -41,13 +41,13 @@ python -m venv .venv
 # or
 source .venv/bin/activate  # macOS/Linux
 ```
-3. Install Dependencies
+### 3. Install Dependencies
 ```
 Copy
 Edit
 pip install -r requirements.txt
 ```
-5. Launch the Streamlit App
+### 4. Launch the Streamlit App
 ```
 Copy
 Edit
